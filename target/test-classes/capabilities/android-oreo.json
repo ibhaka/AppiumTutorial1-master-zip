@@ -1,0 +1,12 @@
+ {
+
+
+   "platformName": "Android",
+   "deviceName": "nougat",
+   "automationName": "UiAutomator2",
+   "udid": "emulator-5554",
+   "avd": "Pixel_2_API_24",
+   "appium:fullReset": true ,
+   "appium:newCommandTimeout": 5
+}
+
